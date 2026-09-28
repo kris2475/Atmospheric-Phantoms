@@ -19,7 +19,7 @@ Most commercial IoT devices are aggressively, artificially non-threatening. They
 
 **Atmospheric Phantoms** refuses this polite deception. It is intentionally, unapologetically uncanny. 
 
-By using raw environmental decay and shifting drone audio to reflect human absence, it taps into the psychological weight of *hauntology*—the feeling that a space remembers us. It uses speculative unease as a critical probe to ask a vital question: *Why do we find a room reflecting our own invisible biological trace to be unnerving, yet we willingly hand over 24/7 video and audio feeds to corporate tech monopolies without a second thought?* It trades the false comfort of surveillance capitalism for eerie, transparent honesty.
+By using raw environmental decay and shifting drone audio to reflect human absence, it taps into the psychological weight of *hauntology* - the feeling that a space remembers us. It uses speculative unease as a critical probe to ask a vital question: *Why do we find a room reflecting our own invisible biological trace to be unnerving, yet we willingly hand over 24/7 video and audio feeds to corporate tech monopolies without a second thought?* It trades the false comfort of surveillance capitalism for eerie, transparent honesty.
 
 ---
 
@@ -34,7 +34,7 @@ By using raw environmental decay and shifting drone audio to reflect human absen
 ---
 
 ## Physical Materiality: Porous Enclosures
-A device that tracks decay cannot be housed in pristine injection-molded white plastic. **Atmospheric Phantoms** are designed for porous, raw, and weathering materials—such as unglazed terracotta, charred *Shou Sugi Ban* wood, or raw cast concrete. As the system ages and logs spatial history, the enclosure itself absorbs environmental moisture, patinates, and weathers, ensuring the hardware physically reflects the passage of time just as the audio engine does.
+A device that tracks decay cannot be housed in pristine injection-molded white plastic. **Atmospheric Phantoms** are designed for porous, raw, and weathering materials—such as unglased terracotta, charred *Shou Sugi Ban* wood, or raw cast concrete. As the system ages and logs spatial history, the enclosure itself absorbs environmental moisture, patinates, and weathers, ensuring the hardware physically reflects the passage of time just as the audio engine does.
 
 ---
 
