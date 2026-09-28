@@ -27,7 +27,7 @@ By using raw environmental decay and shifting drone audio to reflect human absen
 
 * **Absolute Privacy by Design:** Built on the Bosch BME688 sensor. It reads atmospheric chemistry and chemical footprints without ever capturing a video frame, an audio recording, or any personal identifier.
 * **Edge TinyML Inference:** No cloud servers, no Wi-Fi telemetry, and no external data dependencies. Local machine learning models running directly on the ESP32 classify environmental states (Empty, Occupied, Fading) in real-time.
-* **Digital Patina & Logarithmic Decay:** Absence is never a binary switch. When a human leaves a room, the audio engine mirrors human psychology—utilising an organic, logarithmic decay curve to let the room's memory slowly and naturally dissolve back into silence.
+* **Digital Patina & Logarithmic Decay:** Absence is never a binary switch. When a human leaves a room, the audio engine mirrors human psychology - using an organic, logarithmic decay curve to let the room's memory slowly and naturally dissolve back into silence.
 * **Granular Ambient Sonification:** Translates subtle atmospheric shifts into living, breathing drone soundscapes via an I2S digital amplifier.
 * **Distributed Swarm Architecture:** Fully deployable as isolated nodes or connected via a local peer-to-peer wireless mesh, allowing adjacent rooms to harmonise and "feel" each other's atmospheric fluctuations.
 
