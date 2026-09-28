@@ -66,9 +66,8 @@ The device operates across three distinct emotional acoustic states driven by lo
 Because each node runs its own local TinyML model and memory architecture, **Atmospheric Phantoms** adapts entirely to the local rhythm of its surroundings:
 
 * **The Solitary Flat (Home & Loneliness):** Sits in deep equilibrium during the day. When you return home, your metabolic footprint warms the soundscape. When you leave for extended periods, the node dips into its SD card memory ring-buffer, softly whispering stretched-out audio echoes of your daily routine.
-* **The Corporate Office (Nightshift Transition):** Transforms a frantic, high-tension workspace during the day into a dramatic logarithmic decay at midnight. Nightshift workers walking past quiet meeting rooms at 4:00 AM can hear the building literally exhaling the day's stress.
-* **The Deep Woods / Forest Canopy (Outdoors):** Tracks ecosystem respiration rather than human breath—mapping morning dew humidity spikes and barometric pressure drops to act as a pre-cognitive audio weather oracle before a storm.
-* **The Garden Shed or Greenhouse:** Translates botanical respiration and photosynthesis cycles into ethereal sound shifts, letting you literally listen to the garden going to sleep as night falls.
+* **The Corporate Office or Care Home (Nightshift Transition):** Transforms a frantic, high-tension workspace during the day into a dramatic logarithmic decay at midnight. Nightshift workers walking past quiet meeting rooms at 4:00 AM can hear the building literally exhaling the day's stress.
+
 
 ---
 
