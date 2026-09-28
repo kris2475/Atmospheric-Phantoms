@@ -1,39 +1,39 @@
-# Spectral Ghosts 👻🌫️
+# Spectral Ghosts
 
-> *A decentralized swarm of privacy-preserving architectural nodes that translate invisible atmospheric decay and human breath into living, ambient soundscapes.*
+> *A decentralised swarm of privacy-preserving architectural nodes that translate invisible atmospheric decay and human breath into living, ambient soundscapes.*
 
 ---
 
 ## Manifesto
 
-Modern smart buildings are designed for hyper-surveillance. They rely on cameras, cloud tracking, and binary triggers to log human presence, treating occupants as data points to be optimized. 
+Modern smart buildings are designed for hyper-surveillance. They rely on intrusive cameras, cloud tracking, and binary triggers to log human presence, treating human occupants merely as data points to be optimized and monetised. 
 
-**Spectral Ghosts** rejects this paradigm. 
+**Spectral Ghosts** fundamentally rejects this paradigm. 
 
-Instead of tracking *who* you are, this device listens to *how a space changes* when you inhabit it. Using a BME688 environmental sensor to monitor volatile organic compounds (VOCs), humidity, and metabolic gas shifts, running local **TinyML** inference on-metal, and refusing to connect to the cloud, these autonomous nodes give architecture a subconscious. They capture the ghost of human habitation—and let it decay gracefully over time.
+Instead of tracking *who* you are, this device listens to *how a space changes* when you inhabit it. Using a Bosch BME688 environmental sensor to monitor volatile organic compounds (VOCs), relative humidity, and metabolic gas shifts, running local **TinyML** inference directly on the metal, and strictly refusing to connect to the cloud, these autonomous nodes give architecture a subconscious. They capture the ghost of human habitation—and let it decay gracefully over time.
 
 ---
 
 ## Core Features
 
-* **Absolute Privacy by Design:** Built on the Bosch BME688 sensor. It reads atmospheric chemistry and chemical footprints without ever capturing a video frame, an audio recording, or a personal identifier.
-* **Edge TinyML Inference:** No cloud servers, no Wi-Fi telemetry. Local machine learning models running directly on the ESP32 classify environmental states (Empty, Occupied, Fading).
-* **Digital Patina & Logarithmic Decay:** Absence is not a binary switch. When a human leaves, the audio engine mirrors human psychology—using an organic, logarithmic decay curve to let the room's memory slowly dissolve back into silence.
-* **Granular Ambient Sonification:** Translates atmospheric shifts into living, breathing drone soundscapes via an I2S digital amplifier.
-* **Distributed Swarm Architecture:** Deployable as isolated nodes or connected via local peer-to-peer mesh to let adjacent rooms "feel" each other's atmospheric changes.
+* **Absolute Privacy by Design:** Built on the Bosch BME688 sensor. It reads atmospheric chemistry and chemical footprints without ever capturing a video frame, an audio recording, or any personal identifier.
+* **Edge TinyML Inference:** No cloud servers, no Wi-Fi telemetry, and no external data dependencies. Local machine learning models running directly on the ESP32 classify environmental states (Empty, Occupied, Fading) in real-time.
+* **Digital Patina & Logarithmic Decay:** Absence is never a binary switch. When a human leaves a room, the audio engine mirrors human psychology—utilising an organic, logarithmic decay curve to let the room's memory slowly and naturally dissolve back into silence.
+* **Granular Ambient Sonification:** Translates subtle atmospheric shifts into living, breathing drone soundscapes via an I2S digital amplifier.
+* **Distributed Swarm Architecture:** Fully deployable as isolated nodes or connected via a local peer-to-peer wireless mesh, allowing adjacent rooms to harmonise and "feel" each other's atmospheric fluctuations.
 
 ---
 
 ## Hardware Bill of Materials (BOM)
 
-| Component | Role |
+| Component | Role & Function |
 | :--- | :--- |
-| **ESP32 Dev Module** | The central computing core and TinyML runner. |
-| **Bosch BME688** | 4-in-1 environmental sensor (Temperature, Pressure, Humidity, VOC Gas Resistance). |
-| **MAX98357A** | I2S Digital Amplifier for clean, real-time audio synthesis. |
-| **64x128 OLED Display** | Minimalist, abstract visualization of atmospheric energy and state. |
-| **Micro SD Card Module** | Local data-archaeology storage (logging spatial history). |
-| **4Ω–8Ω Speaker (3W)** | The physical voice of the room. |
+| **ESP32 Dev Module** | The central computing core, handling sensor polling, TinyML inference, and audio synthesis. |
+| **Bosch BME688** | 4-in-1 environmental sensor measuring ambient temperature, barometric pressure, relative humidity, and VOC gas resistance. |
+| **MAX98357A** | I2S Digital Amplifier providing clean, distortion-free real-time audio output directly to the speaker. |
+| **64x128 OLED Display** | Minimalist, abstract visualisation of atmospheric energy levels, system state, and historical trends. |
+| **Micro SD Card Module** | Local data-archaeology storage for logging long-term spatial history and temporal patterns. |
+| **4Ω–8Ω Speaker (3W)** | The physical voice and acoustic transducer of the room. |
 
 ---
 
@@ -55,11 +55,17 @@ Instead of tracking *who* you are, this device listens to *how a space changes* 
 
 The device operates across three distinct emotional acoustic states driven by local atmospheric variance:
 
-1. **The Equilibrium (Empty Room):** A deep, slow, sub-bass drone representing a space at rest.
-2. **The Intrusion (Presence):** Metabolic VOC shifts and gas resistance drops trigger brighter harmonics and granular textures as the room "notices" human disturbance.
-3. **The Residue (Departure):** A long, asymptotic logarithmic decay curve that slowly downshifts pitch and fades into an echoing reverb tail—simulating architectural grief.
+1. **The Equilibrium (Empty Room):** A deep, slow, resonant sub-bass drone representing a space at rest, tuned to match the natural ambient hum of the building infrastructure.
+2. **The Intrusion (Presence):** Metabolic VOC shifts and sharp gas resistance drops trigger brighter harmonics, shimmering overtones, and granular textures as the room "notices" human disturbance.
+3. **The Residue (Departure):** A long, asymptotic logarithmic decay curve that slowly downshifts pitch and fades into an echoing reverb tail—simulating architectural grief and the slow fading of human presence.
 
 ---
+
+## Getting Started & Installation
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/spectral-ghosts.git](https://github.com/your-username/spectral-ghosts.git)
 
 ## Getting Started
 
