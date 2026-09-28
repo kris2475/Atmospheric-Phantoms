@@ -8,7 +8,7 @@
 
 Modern smart buildings are designed for hyper-surveillance. They rely on intrusive cameras, cloud tracking, and binary triggers to log human presence, treating human occupants merely as data points to be optimised and monetised. 
 
-**Spectral Ghosts** fundamentally rejects this paradigm. 
+**Atmospheric Phantoms** fundamentally rejects this paradigm. 
 
 Instead of tracking *who* you are, this device listens to *how a space changes* when you inhabit it. Using a Bosch BME688 environmental sensor to monitor volatile organic compounds (VOCs), relative humidity, and metabolic gas shifts, running local **TinyML** inference directly on the metal, and strictly refusing to connect to the cloud, these autonomous nodes give architecture a subconscious. They capture the ghost of human habitation—and let it decay gracefully over time.
 
@@ -18,7 +18,7 @@ Instead of tracking *who* you are, this device listens to *how a space changes* 
 
 * **Absolute Privacy by Design:** Built on the Bosch BME688 sensor. It reads atmospheric chemistry and chemical footprints without ever capturing a video frame, an audio recording, or any personal identifier.
 * **Edge TinyML Inference:** No cloud servers, no Wi-Fi telemetry, and no external data dependencies. Local machine learning models running directly on the ESP32 classify environmental states (Empty, Occupied, Fading) in real-time.
-* **Digital Patina & Logarithmic Decay:** Absence is never a binary switch. When a human leaves a room, the audio engine mirrors human psychology - using an organic, logarithmic decay curve to let the room's memory slowly and naturally dissolve back into silence.
+* **Digital Patina & Logarithmic Decay:** Absence is never a binary switch. When a human leaves a room, the audio engine mirrors human psychology—utilising an organic, logarithmic decay curve to let the room's memory slowly and naturally dissolve back into silence.
 * **Granular Ambient Sonification:** Translates subtle atmospheric shifts into living, breathing drone soundscapes via an I2S digital amplifier.
 * **Distributed Swarm Architecture:** Fully deployable as isolated nodes or connected via a local peer-to-peer wireless mesh, allowing adjacent rooms to harmonise and "feel" each other's atmospheric fluctuations.
 
@@ -61,4 +61,15 @@ The device operates across three distinct emotional acoustic states driven by lo
 
 ---
 
-Apache-2.0 license
+## Deployment Scenarios
+
+Because each node runs its own local TinyML model and memory architecture, **Atmospheric Phantoms** adapts entirely to the local rhythm of its surroundings:
+
+* **The Solitary Flat (Home & Loneliness):** Sits in deep equilibrium during the day. When you return home, your metabolic footprint warms the soundscape. When you leave for extended periods, the node dips into its SD card memory ring-buffer, softly whispering stretched-out audio echoes of your daily routine.
+* **The Corporate Office (Nightshift Transition):** Transforms a frantic, high-tension workspace during the day into a dramatic logarithmic decay at midnight. Nightshift workers walking past quiet meeting rooms at 4:00 AM can hear the building literally exhaling the day's stress.
+* **The Deep Woods / Forest Canopy (Outdoors):** Tracks ecosystem respiration rather than human breath—mapping morning dew humidity spikes and barometric pressure drops to act as a pre-cognitive audio weather oracle before a storm.
+* **The Garden Shed or Greenhouse:** Translates botanical respiration and photosynthesis cycles into ethereal sound shifts, letting you literally listen to the garden going to sleep as night falls.
+
+---
+
+Apache-2.0 licence
