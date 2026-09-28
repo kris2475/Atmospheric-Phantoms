@@ -1,4 +1,4 @@
-# Atmospheric Phantoms 👻🌫️
+# Atmospheric Phantoms
 
 > *A decentralised swarm of privacy-preserving architectural nodes that translate invisible atmospheric decay and human breath into living, ambient soundscapes.*
 
