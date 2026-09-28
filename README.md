@@ -1,4 +1,4 @@
-# Atmospheric Phantoms
+# Atmospheric Phantoms 👻🌫️
 
 > *A decentralised swarm of privacy-preserving architectural nodes that translate invisible atmospheric decay and human breath into living, ambient soundscapes.*
 
@@ -30,6 +30,21 @@ By using raw environmental decay and shifting drone audio to reflect human absen
 * **Digital Patina & Logarithmic Decay:** Absence is never a binary switch. When a human leaves a room, the audio engine mirrors human psychology—utilising an organic, logarithmic decay curve to let the room's memory slowly and naturally dissolve back into silence.
 * **Granular Ambient Sonification:** Translates subtle atmospheric shifts into living, breathing drone soundscapes via an I2S digital amplifier.
 * **Distributed Swarm Architecture:** Fully deployable as isolated nodes or connected via a local peer-to-peer wireless mesh, allowing adjacent rooms to harmonise and "feel" each other's atmospheric fluctuations.
+
+---
+
+## Physical Materiality: Porous Enclosures
+A device that tracks decay cannot be housed in pristine injection-molded white plastic. **Atmospheric Phantoms** are designed for porous, raw, and weathering materials—such as unglazed terracotta, charred *Shou Sugi Ban* wood, or raw cast concrete. As the system ages and logs spatial history, the enclosure itself absorbs environmental moisture, patinates, and weathers, ensuring the hardware physically reflects the passage of time just as the audio engine does.
+
+---
+
+## Inter-Node Empathy (The Swarm's Whisper)
+Nodes do not exist in isolation. Utilising local **ESP-NOW** peer-to-peer mesh networking, adjacent rooms can sense each other's atmospheric shifts completely offline. When a bedroom node detects a human waking up and shifting the air, it silently transmits a lightweight packet to the hallway node, causing the hallway node to pre-emptively shift its drone chord. The building begins to breathe in sync before you even walk through the door.
+
+---
+
+## The Architecture of Forgetting (Digital Bit-Rot)
+Unlike security loops that cleanly overwrite old files or cloud services that store everything indefinitely, the Micro SD card architecture features a built-in **death cycle**. Memories and archival audio loops older than a defined window do not simply delete—they undergo algorithmic bit-rot, permanently fragmenting, distorting, and dissolving into digital white noise. The machine actively chooses to forget, honoring the true ephemerality of human life.
 
 ---
 
