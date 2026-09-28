@@ -61,14 +61,4 @@ The device operates across three distinct emotional acoustic states driven by lo
 
 ---
 
-## Getting Started & Installation
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/spectral-ghosts.git](https://github.com/your-username/spectral-ghosts.git)
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/spectral-ghosts.git](https://github.com/your-username/spectral-ghosts.git)
+Apache-2.0 license
