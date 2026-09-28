@@ -1,4 +1,4 @@
-# Spectral Ghosts
+# Atmospheric Phantoms
 
 > *A decentralised swarm of privacy-preserving architectural nodes that translate invisible atmospheric decay and human breath into living, ambient soundscapes.*
 
@@ -6,7 +6,7 @@
 
 ## Manifesto
 
-Modern smart buildings are designed for hyper-surveillance. They rely on intrusive cameras, cloud tracking, and binary triggers to log human presence, treating human occupants merely as data points to be optimized and monetised. 
+Modern smart buildings are designed for hyper-surveillance. They rely on intrusive cameras, cloud tracking, and binary triggers to log human presence, treating human occupants merely as data points to be optimised and monetised. 
 
 **Spectral Ghosts** fundamentally rejects this paradigm. 
 
