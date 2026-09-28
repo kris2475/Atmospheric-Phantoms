@@ -14,6 +14,15 @@ Instead of tracking *who* you are, this device listens to *how a space changes* 
 
 ---
 
+## The Aesthetics of Honesty: Embracing the Creep
+Most commercial IoT devices are aggressively, artificially non-threatening. They wear a mask of cheerful corporate utility—glowing polite blue, chirping happy startup jingles, and pretending to be harmless while quietly harvesting your data to remote cloud servers. They lie about what they are.
+
+**Atmospheric Phantoms** refuses this polite deception. It is intentionally, unapologetically uncanny. 
+
+By using raw environmental decay and shifting drone audio to reflect human absence, it taps into the psychological weight of *hauntology*—the feeling that a space remembers us. It uses speculative unease as a critical probe to ask a vital question: *Why do we find a room reflecting our own invisible biological trace to be unnerving, yet we willingly hand over 24/7 video and audio feeds to corporate tech monopolies without a second thought?* It trades the false comfort of surveillance capitalism for eerie, transparent honesty.
+
+---
+
 ## Core Features
 
 * **Absolute Privacy by Design:** Built on the Bosch BME688 sensor. It reads atmospheric chemistry and chemical footprints without ever capturing a video frame, an audio recording, or any personal identifier.
@@ -67,7 +76,6 @@ Because each node runs its own local TinyML model and memory architecture, **Atm
 
 * **The Solitary Flat (Home & Loneliness):** Sits in deep equilibrium during the day. When you return home, your metabolic footprint warms the soundscape. When you leave for extended periods, the node dips into its SD card memory ring-buffer, softly whispering stretched-out audio echoes of your daily routine.
 * **The Corporate Office or Care Home (Nightshift Transition):** Transforms a frantic, high-tension workspace during the day into a dramatic logarithmic decay at midnight. Nightshift workers walking past quiet meeting rooms at 4:00 AM can hear the building literally exhaling the day's stress.
-
 
 ---
 
