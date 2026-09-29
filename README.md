@@ -34,7 +34,7 @@ By using raw environmental decay and shifting drone audio to reflect human absen
 ---
 
 ## Physical Materiality: Porous Enclosures
-A device that tracks decay cannot be housed in pristine injection-molded white plastic. **Atmospheric Phantoms** are designed for porous, raw, and weathering materials—such as unglased terracotta, charred *Shou Sugi Ban* wood, or raw cast concrete. As the system ages and logs spatial history, the enclosure itself absorbs environmental moisture, patinates, and weathers, ensuring the hardware physically reflects the passage of time just as the audio engine does.
+A device that tracks decay cannot be housed in pristine injection-molded white plastic. **Atmospheric Phantoms** are designed for porous, raw, and weathering materials - such as unglassed terracotta, charred *Shou Sugi Ban* wood, or raw cast concrete. As the system ages and logs spatial history, the enclosure itself absorbs environmental moisture, patinates, and weathers, ensuring the hardware physically reflects the passage of time just as the audio engine does.
 
 ---
 
