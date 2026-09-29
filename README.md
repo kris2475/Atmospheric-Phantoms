@@ -8,6 +8,9 @@
 
 Modern smart buildings are designed for hyper-surveillance. They rely on intrusive cameras, cloud tracking, and binary triggers to log human presence, treating human occupants merely as data points to be optimised and monetised. 
 
+
+Every smart device in your home is watching you, listening to you, and streaming your life to the cloud. We built the opposite. Atmospheric Phantoms is an edge-AI node that listens to the chemical footprint of your breath and translates it into a living, breathing soundscape—completely offline. It trades the false comfort of corporate surveillance for ambient, privacy-first poetry. Why do we willingly hand over our lives to tech monopolies, yet find it unnerving when a room simply acknowledges that we were there?
+
 **Atmospheric Phantoms** fundamentally rejects this paradigm. 
 
 Instead of tracking *who* you are, this device listens to *how a space changes* when you inhabit it. Using a Bosch BME688 environmental sensor to monitor volatile organic compounds (VOCs), relative humidity, and metabolic gas shifts, running local **TinyML** inference directly on the metal, and strictly refusing to connect to the cloud, these autonomous nodes give architecture a subconscious. They capture the ghost of human habitation - and let it decay gracefully over time.
