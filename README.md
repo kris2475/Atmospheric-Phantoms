@@ -1,4 +1,4 @@
-# Atmospheric & Spectral Audio Synthesizer Lab
+# Atmospheric & Spectral Audio Synthesiser Lab
 
 > *A hardware-to-software telemetry network that streams invisible environmental chemistry and spectral data into a real-time Python synthesis engine and interactive desktop dashboard.*
 
